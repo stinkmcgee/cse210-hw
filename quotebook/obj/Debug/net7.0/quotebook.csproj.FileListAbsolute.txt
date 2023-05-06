@@ -1,0 +1,15 @@
+/Users/Admin/cse210-hw/cse210-hw/quotebook/obj/Debug/net7.0/quotebook.csproj.AssemblyReference.cache
+/Users/Admin/cse210-hw/cse210-hw/quotebook/obj/Debug/net7.0/quotebook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/cse210-hw/cse210-hw/quotebook/obj/Debug/net7.0/quotebook.AssemblyInfoInputs.cache
+/Users/Admin/cse210-hw/cse210-hw/quotebook/obj/Debug/net7.0/quotebook.AssemblyInfo.cs
+/Users/Admin/cse210-hw/cse210-hw/quotebook/obj/Debug/net7.0/quotebook.csproj.CoreCompileInputs.cache
+/Users/Admin/cse210-hw/cse210-hw/quotebook/bin/Debug/net7.0/quotebook
+/Users/Admin/cse210-hw/cse210-hw/quotebook/bin/Debug/net7.0/quotebook.deps.json
+/Users/Admin/cse210-hw/cse210-hw/quotebook/bin/Debug/net7.0/quotebook.runtimeconfig.json
+/Users/Admin/cse210-hw/cse210-hw/quotebook/bin/Debug/net7.0/quotebook.dll
+/Users/Admin/cse210-hw/cse210-hw/quotebook/bin/Debug/net7.0/quotebook.pdb
+/Users/Admin/cse210-hw/cse210-hw/quotebook/obj/Debug/net7.0/quotebook.dll
+/Users/Admin/cse210-hw/cse210-hw/quotebook/obj/Debug/net7.0/refint/quotebook.dll
+/Users/Admin/cse210-hw/cse210-hw/quotebook/obj/Debug/net7.0/quotebook.pdb
+/Users/Admin/cse210-hw/cse210-hw/quotebook/obj/Debug/net7.0/quotebook.genruntimeconfig.cache
+/Users/Admin/cse210-hw/cse210-hw/quotebook/obj/Debug/net7.0/ref/quotebook.dll
