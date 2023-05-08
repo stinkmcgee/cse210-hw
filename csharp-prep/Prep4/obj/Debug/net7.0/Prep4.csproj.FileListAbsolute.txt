@@ -1,0 +1,15 @@
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.csproj.AssemblyReference.cache
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.AssemblyInfoInputs.cache
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.AssemblyInfo.cs
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.csproj.CoreCompileInputs.cache
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/bin/Debug/net7.0/Prep4
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/bin/Debug/net7.0/Prep4.deps.json
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/bin/Debug/net7.0/Prep4.runtimeconfig.json
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/bin/Debug/net7.0/Prep4.dll
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/bin/Debug/net7.0/Prep4.pdb
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.dll
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/obj/Debug/net7.0/refint/Prep4.dll
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.pdb
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/obj/Debug/net7.0/Prep4.genruntimeconfig.cache
+/Users/Admin/cse210-hw/cse210-hw/csharp-prep/Prep4/obj/Debug/net7.0/ref/Prep4.dll
