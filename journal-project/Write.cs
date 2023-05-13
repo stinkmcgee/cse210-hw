@@ -1,15 +1,15 @@
 // display 
-public class board{
-    private Board _board;
-    public Menu(Board board){
-        _board = board;
+public class Write{
+    private Write _write;
+    public Menu(Write write){
+        _write = write;
     }
     public void Display(){
         string response = "";
-        string[] options = {"A","S","Q","F","R"};
+        string[] options = {"A","S","Q"};
         while(response!="Q"){
             while (options.Contains(response))==false;{
-                Console.Write("[A]dd quote:\n[S]how quotes\n[F]ind Quote by Author\n[R]andom Quote\n[Q]uit\n\nWhat do you want to do?");
+                Console.Write("[A]dd entry:\n[S]how entrys\n[Q]uit\n\nWhat do you want to do?");
                 response = Console.ReadLine() ?? String.Empty;
                 response =response.ToUpper();
             }
@@ -18,33 +18,20 @@ public class board{
                 Environment.Exit(0);
                 break;
                 case "A":
-                Console.WriteLine("Please enter your quote: ");
-                string quote = Console.ReadLine() ?? String.Empty;
-                Console.WriteLine("please enter your author: ");
-                string author = Console.ReadLine() ?? String.Empty;
-                Console.WriteLine("Please enter your source: ");
-                string source = Console.ReadLine() ?? String.Empty;
-                Console.WriteLine("Please enter source url: ");
-                string sourceUrl = Console.ReadLine() ?? String.Empty;
-
-                _board.AddQuote(new Quote(author, quote,new Source(source,sourceUrl)));
+                // give ability to use a random prompt -mc
+                    // maybe if statement? -mc
+                Console.WriteLine("Please enter your entry: ");
+                string entry = Console.ReadLine() ?? String.Empty;
+                _write.AddEntry(new Entry(entry));
                 break;
                 case "S":
-                _board.ShowQuotes();
-                break;
-                case "F":
-                Console.Write("Please enter your author: ");
-                author = Console.ReadLine() ?? String.Empty;
-                _board.FindQuotesByAuthor(author);
-                break;
-                case "R":
-                _board.GetRandomQuote();
+                // like show entry from what day, show random entry, key words? -mc
+                _write.ShowEntrys();
                 break;
 
-                public static String Board() {
+
+                public static String Write() {
 		
-		//return String value Viswanath Annangi
-		return "Viswanath Annangi";
 	}
 
                 
