@@ -25,7 +25,6 @@ public class Write{
                 _write.AddEntry(new Entry(entry));
                 break;
                 case "S":
-                // like show entry from what day, show random entry, key words? -mc
                 _write.ShowEntrys();
                 break;
 
