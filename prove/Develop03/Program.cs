@@ -1,9 +1,5 @@
-using System;
+//Console.WriteLine("Hello World");
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello Develop03 World!");
-    }
-}
+Word test = new Word("Testing");
+
+Word bark = new Word("Bark");
