@@ -1,0 +1,15 @@
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/bin/Debug/net7.0/Learning04
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/bin/Debug/net7.0/Learning04.deps.json
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/bin/Debug/net7.0/Learning04.runtimeconfig.json
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/bin/Debug/net7.0/Learning04.dll
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/bin/Debug/net7.0/Learning04.pdb
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/obj/Debug/net7.0/Learning04.csproj.AssemblyReference.cache
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/obj/Debug/net7.0/Learning04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/obj/Debug/net7.0/Learning04.AssemblyInfoInputs.cache
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/obj/Debug/net7.0/Learning04.AssemblyInfo.cs
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/obj/Debug/net7.0/Learning04.csproj.CoreCompileInputs.cache
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/obj/Debug/net7.0/Learning04.dll
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/obj/Debug/net7.0/refint/Learning04.dll
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/obj/Debug/net7.0/Learning04.pdb
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/obj/Debug/net7.0/Learning04.genruntimeconfig.cache
+/Users/Admin/cse210-hw/cse210-hw/prepare/Learning04/obj/Debug/net7.0/ref/Learning04.dll
