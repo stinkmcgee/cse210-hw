@@ -1,3 +1,20 @@
+/**********************************
+*            Fraction            *
+*---------------------------------*
+* _top : int                       *
+* _bottom : int                       *
+*---------------------------------*
+* Fraction()                       *
+* Fraction(wholeNumber : int)   *
+* Fraction(top : int, bottom : int)                 *
+* GetTop()          *
+* SetTop(top : int)             *
+* GetBottom()  *
+* SetBottom(bottom : int)     *
+**
+* GetFractionString() : string *
+* GetDecimalValue() : double *
+**********************************/
 using System;
 
 public class Fraction

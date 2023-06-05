@@ -22,7 +22,7 @@ public class Menu{
                 Console.WriteLine("please enter your author: ");
                 string author = Console.ReadLine() ?? String.Empty;
                 Console.WriteLine("Please enter your source: ");
-                string source = Console.ReadLine() ?? String.Empty
+                string source = Console.ReadLine() ?? String.Empty;
                 Console.WriteLine("Please enter source url: ");
                 string sourceUrl = Console.ReadLine() ?? String.Empty;
 
