@@ -30,8 +30,10 @@ public class Reflection : Activity{
         foreach(string question in questions){
             Console.WriteLine(question);
             Console.WriteLine(" ");
-            Thread.Sleep(5000);
-            Console.Write("\b \b");
+            Countdown(5);
+            //Thread.Sleep(5000);
+            Console.WriteLine(" ");
+            //Console.Write("\b \b");
         }
         Console.Write("+");
         Thread.Sleep(500);
@@ -67,7 +69,7 @@ public class Reflection : Activity{
         Thread.Sleep(500);
         Console.Write("\b");
         Console.Write("-");
-        
+
         Console.Write("+");
         Thread.Sleep(500);
         Console.Write("\b");

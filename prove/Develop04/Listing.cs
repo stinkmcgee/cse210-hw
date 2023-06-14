@@ -24,7 +24,6 @@ public class Listing : Activity{
 
         while(Duration > 0){
             itemCount++;
-            Duration--;
             string item = Console.ReadLine();
             if(string.IsNullOrEmpty(item))
             break;
