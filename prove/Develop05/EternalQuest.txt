@@ -1,0 +1,92 @@
+What does the program do?
+- sets Goals
+- awards points to finished Goals
+- marks goals as complete
+- gives list of goals, finished and unfinished
+- gives points to records for eternal goals
+- shows list of goals/eternal goals
+- show checklist
+- shows how many records are left to finish goal
+
+Goals:
+- can be created
+    - given a choice to be simple or eternal
+    - given choice how many points it counts for
+    - choice to have more than one event / or last forever
+- has points attached to it
+    - points are given for each event recorded
+- can have more than one event
+    - simple goals have a set amount of events
+    - eternal goals have a never ending amount of events
+        - has milestones that give a large amount of points
+Goals
+------
+_points = double
+_goalType = string
+_description = string
+_finished = bool
+------
+SetGoal():string
+GetScore():double
+
+*********************************
+
+Simple Goals:
+- set amount of events
+- example: reading a book
+    - each chapter = 10 points
+    - finish book = 500 points
+Simple : Goals
+------
+DisplayGoals(): list
+IsFinished() : bool
+AddScore() : override
+
+*********************************
+
+Eternal Goals
+- no ending
+- has milestones
+- example: visiting the temple
+    - each visit = 10 points
+    - every 10 visits = 200 extra points
+Eternal : Goals
+------
+AddScore() : override
+
+*********************************
+
+Points:
+- are given when events are recorded and goals are finished
+- are used to level up and gain titles
+- titles are awarded depending on points
+    - more points you have, the higher your level, the better your title
+- never deducted
+    - always added to
+
+Levels:
+- gained after a certain amount of points are earned
+- each level has a new title given to user
+- example:
+    - earned 200 points = Padawan
+    - 1000 points = Jedi Knight
+    - 10000 points = Jedi Master
+
+Events:
+- give a set amount of points to user
+- points depend on the event
+
+
+
+Program
+------
+_createGoal
+_listGoal
+_saveGoal
+_loadGoal
+_recordEvent
+_quit
+------
+DisplayMenu():string
+DisplayGoals():String
+
