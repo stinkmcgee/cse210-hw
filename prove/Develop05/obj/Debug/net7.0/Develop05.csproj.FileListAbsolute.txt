@@ -1,0 +1,5 @@
+/Users/Admin/cse210-hw/cse210-hw/prove/Develop05/obj/Debug/net7.0/Develop05.csproj.AssemblyReference.cache
+/Users/Admin/cse210-hw/cse210-hw/prove/Develop05/obj/Debug/net7.0/Develop05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/cse210-hw/cse210-hw/prove/Develop05/obj/Debug/net7.0/Develop05.AssemblyInfoInputs.cache
+/Users/Admin/cse210-hw/cse210-hw/prove/Develop05/obj/Debug/net7.0/Develop05.AssemblyInfo.cs
+/Users/Admin/cse210-hw/cse210-hw/prove/Develop05/obj/Debug/net7.0/Develop05.csproj.CoreCompileInputs.cache

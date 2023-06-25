@@ -53,6 +53,7 @@ Eternal Goals
 Eternal : Goals
 ------
 AddScore() : override
+DisplayGoals() : list
 
 *********************************
 
@@ -71,6 +72,7 @@ Levels:
     - earned 200 points = Padawan
     - 1000 points = Jedi Knight
     - 10000 points = Jedi Master
+- make it a list?
 
 Events:
 - give a set amount of points to user
