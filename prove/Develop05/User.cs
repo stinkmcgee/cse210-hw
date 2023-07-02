@@ -1,3 +1,6 @@
+// shows current level
+// and shows possible levels?
+
 public class User
 {
     int Points = 0;

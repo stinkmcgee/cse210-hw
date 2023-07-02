@@ -23,13 +23,13 @@ public class Program
             Console.WriteLine("Goodbye!");
         }
         else if(choice == 1){
-            Console.WriteLine("...");
+            Console.WriteLine("Creating new goal: ");
         }
         else if(choice == 2){
             Console.WriteLine("These are the list of goals available: ");
         }
         else if(choice == 3){
-            Console.WriteLine("...");
+            Console.Write("What goal would you like to save?: ");
         }
          else if(choice == 4){
             Console.Write("What goal would you like to load up?: ");

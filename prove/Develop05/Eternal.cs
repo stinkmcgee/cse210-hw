@@ -1,3 +1,7 @@
+// display the list of Eternal goals
+// child of Goal class
+    // that shows points, type, and description
+// _type = string
 public class Eternal : Goal{
 
 
@@ -6,11 +10,11 @@ public class Eternal : Goal{
     List<string> eternalGoals = new List<string>();
     return eternalGoals;
     }
-    public Eternal(){
-        eternalGoals.Add("Go to the Temple", 100);
-        eternalGoals.Add("Finish a book.", 100);
-        eternalGoals.Add("Finish a show.", 100);
-        eternalGoals.Add("Cook something new.", 100);
-        eternalGoals.Add("Make a friend.", 100);
+    public Eternal (int points, string goalType, string description){
+        eternalGoals.Add(100, "Eternal", "Go to the Temple");
+        eternalGoals.Add(100, "Eternal", "Finish a book.");
+        eternalGoals.Add(100, "Eternal", "Finish a show.");
+        eternalGoals.Add(100, "Eternal", "Cook something new.");
+        eternalGoals.Add(100, "Eternal", "Make a friend.");
     }
 }

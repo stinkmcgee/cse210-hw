@@ -1,6 +1,6 @@
-
+// displays goal with points, type, and description of goal
 public class Goal{
-    int _points = 0;
+    protected int _points = 0;
     string _goalType;
     string _description;
     bool _isFinished = false;
@@ -12,6 +12,11 @@ public class Goal{
         _description = description;
     }
 
+    public bool IsFinished(){
+        return _isFinished;
+    }
+
+    // public abstract void create();
     public List<int> getProgress(){
         
         
