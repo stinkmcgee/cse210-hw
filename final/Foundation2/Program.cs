@@ -27,14 +27,28 @@
         // with newline characters where appropriate
 // make sure all member variables are private and getters, setters, and constructors are
     // created as needed
-// write a program that creates at least two orders with a 2-3 products each
+// write a program that creates at least two orders with 2-3 products each
 
-using System;
+// products
+Product heartyLizard = new Product("Hearty Lizard", 1, 100, 3);
+heartyLizard.Display();
+Product arrow = new Product("Arrow", 2, 25, 5);
+arrow.Display();
+Product restlessCricket = new Product("Restless Cricket", 3, 25, 5);
+restlessCricket.Display();
+Product sunsetFirefly = new Product("Sunset Firefly", 4, 50, 10);
+sunsetFirefly.Display();
+Product summerWing = new Product("Summerwing Butterfly", 5, 30, 5);
+summerWing.Display();
+Product octoBalloon = new Product("Octo Balloon", 6, 25, 3);
+octoBalloon.Display();
+Product tirelessFrog = new Product("Tireless Frog", 7, 20, 5);
+tirelessFrog.Display();
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello Foundation2 World!");
-    }
-}
+// customers
+Customer link = new Customer("Link");
+link.Display();
+Customer obiWan = new Customer("Obi Wan Kenobi");
+obiWan.Display();
+Customer joshuaGraham = new Customer("Joshua Graham");
+joshuaGraham.Display();

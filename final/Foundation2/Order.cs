@@ -13,4 +13,12 @@
     // A shipping label should list the name and address of the customer
 // Order
 // ******
+// orderNumber() = string
+// packingLabel() = string
+// shippingLabel() = string
+// ******
+// calculateOrder()
 // 
+public class Order{
+
+}

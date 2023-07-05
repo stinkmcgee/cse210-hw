@@ -8,3 +8,26 @@
 //*******
 // getAddress?
 // isUSA = true/false
+
+public class Customer {
+    private string _customerName;
+    protected bool _isUSA = true;
+
+    public void isUSA(){
+    _isUSA = true;
+    }
+    public void notUSA(){
+        _isUSA = false;
+    }
+    public Customer(string customerName){
+        _customerName = customerName;
+    }
+    public void ShowCustomerDetails(){
+        Console.WriteLine($"{_customerName}");
+    }
+    public virtual void Display(){
+        Console.WriteLine($"USA Resident? {_isUSA}");
+}
+
+}
+
