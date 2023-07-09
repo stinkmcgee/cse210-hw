@@ -1,0 +1,5 @@
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation2/obj/Debug/net7.0/Foundation2.csproj.AssemblyReference.cache
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation2/obj/Debug/net7.0/Foundation2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation2/obj/Debug/net7.0/Foundation2.AssemblyInfoInputs.cache
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation2/obj/Debug/net7.0/Foundation2.AssemblyInfo.cs
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation2/obj/Debug/net7.0/Foundation2.csproj.CoreCompileInputs.cache

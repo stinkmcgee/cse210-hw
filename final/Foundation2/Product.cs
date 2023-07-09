@@ -19,12 +19,28 @@ public class Product{
     public int actualPrice;
 
     public List<Product> _product = new List<Product>();
+    //public List<string> _product = new List<string>();
 
     public Product(string name, int productID, int price, int quantity){
         _name = name;
         _productID = productID;
         _price = price;
         _quantity = quantity;
+        // products... move maybe?
+        Product heartyLizard = new Product("Hearty Lizard", 1, 100, 3);
+        heartyLizard.Display();
+        Product arrow = new Product("Arrow", 2, 25, 5);
+        arrow.Display();
+        Product restlessCricket = new Product("Restless Cricket", 3, 25, 5);
+        restlessCricket.Display();
+        Product sunsetFirefly = new Product("Sunset Firefly", 4, 50, 10);
+        sunsetFirefly.Display();
+        Product summerWing = new Product("Summerwing Butterfly", 5, 30, 5);
+        summerWing.Display();
+        Product octoBalloon = new Product("Octo Balloon", 6, 25, 3);
+        octoBalloon.Display();
+        Product tirelessFrog = new Product("Tireless Frog", 7, 20, 5);
+        tirelessFrog.Display();
     }
     public void productPrice(){
         actualPrice = _price * _quantity;

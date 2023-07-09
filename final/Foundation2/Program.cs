@@ -30,20 +30,6 @@
 // write a program that creates at least two orders with 2-3 products each
 
 // products
-Product heartyLizard = new Product("Hearty Lizard", 1, 100, 3);
-heartyLizard.Display();
-Product arrow = new Product("Arrow", 2, 25, 5);
-arrow.Display();
-Product restlessCricket = new Product("Restless Cricket", 3, 25, 5);
-restlessCricket.Display();
-Product sunsetFirefly = new Product("Sunset Firefly", 4, 50, 10);
-sunsetFirefly.Display();
-Product summerWing = new Product("Summerwing Butterfly", 5, 30, 5);
-summerWing.Display();
-Product octoBalloon = new Product("Octo Balloon", 6, 25, 3);
-octoBalloon.Display();
-Product tirelessFrog = new Product("Tireless Frog", 7, 20, 5);
-tirelessFrog.Display();
 
 // customers
 Customer link = new Customer("Link");
