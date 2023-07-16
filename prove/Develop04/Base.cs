@@ -12,4 +12,14 @@ public abstract class Activity{
       Thread.Sleep(3000);
     }
   }
+
+    internal double GetDistance()
+    {
+        throw new NotImplementedException();
+    }
+
+    internal double GetSpeed()
+    {
+        throw new NotImplementedException();
+    }
 }

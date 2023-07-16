@@ -1,0 +1,15 @@
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/obj/Debug/net7.0/Foundation4.csproj.AssemblyReference.cache
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/obj/Debug/net7.0/Foundation4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/obj/Debug/net7.0/Foundation4.AssemblyInfoInputs.cache
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/obj/Debug/net7.0/Foundation4.AssemblyInfo.cs
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/obj/Debug/net7.0/Foundation4.csproj.CoreCompileInputs.cache
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/bin/Debug/net7.0/Foundation4
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/bin/Debug/net7.0/Foundation4.deps.json
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/bin/Debug/net7.0/Foundation4.runtimeconfig.json
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/bin/Debug/net7.0/Foundation4.dll
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/bin/Debug/net7.0/Foundation4.pdb
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/obj/Debug/net7.0/Foundation4.dll
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/obj/Debug/net7.0/refint/Foundation4.dll
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/obj/Debug/net7.0/Foundation4.pdb
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/obj/Debug/net7.0/Foundation4.genruntimeconfig.cache
+/Users/Admin/cse210-hw/cse210-hw/final/Foundation4/obj/Debug/net7.0/ref/Foundation4.dll

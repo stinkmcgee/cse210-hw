@@ -1,20 +1,4 @@
-/**********************************
-*           Scripture            *
-*---------------------------------*
-* _words : list                      *
-*                       *
-*---------------------------------*
-* Fraction()                       *
-* Fraction(wholeNumber : int)   *
-* Fraction(top : int, bottom : int)                 *
-* GetTop()          *
-* SetTop(top : int)             *
-* GetBottom()  *
-* SetBottom(bottom : int)     *
-**
-* GetFractionString() : string *
-* GetDecimalValue() : double *
-**********************************/
+
 
 using System;
 using System.Collections.Generic;

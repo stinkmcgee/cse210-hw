@@ -44,10 +44,39 @@
 
 using System;
 
+
 class Program
 {
     static void Main(string[] args)
     {
         //Console.WriteLine("Hello Foundation4 World!");
+        List<Activity> activities = new List<Activity>();
+        DateTime currentDate = DateTime.Now;
+        string formattedDate = currentDate.ToString("dd MMMM yyyy");
+        // ignore the errors on Swimming.
+        //Swimming s = new Swimming(2, 15, 5, 2, 15);
+        //activities.Add(s);
+        Swimming s2 = new Swimming("Swimming", 25, 0, 0, 0, 60);
+        activities.Add(s2);
+        //Running r = new Running(3, 50, 1, 1);
+       // activities.Add(r);
+       Running r2 = new Running("Running", 3, 0, 0, 30);
+       activities.Add(r2);
+       Cycling c = new Cycling("Cycling", 15, 15, 0, 60);
+       activities.Add(c);
+
+        foreach(Activity a in activities){
+            double distance = a.GetDistance();
+            
+            double speed = a.GetSpeed();
+
+            double pace = a.GetPace();
+
+            double timeLimit = a.GetTime();
+
+            string workoutType = a.GetWorkoutType();
+
+            Console.WriteLine($"{formattedDate} {workoutType} ({timeLimit} min) - Distance: {distance} miles, Speed: {speed} mph, Pace: {pace} min per mile");
+        }
     }
 }
