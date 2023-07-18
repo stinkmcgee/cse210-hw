@@ -1,21 +1,11 @@
+using System;
+public class ScriptWord{
+    public string WordGet{get;}
+    private bool isHidden{get; set;}
+    public bool IsHidden { get; internal set; }
 
-public class Word
-{
-    private string _word;
-    private Boolean _shown = true;
-    private Boolean _hide = true;
-
-    public Word(string word){
-        _word = word;
+    public ScriptWord(string word){
+        WordGet = word;
+        isHidden = false;
     }
-    public void GetVisibleWords(){
-        if(){
-
-        }
-    }
-
-    public string Display(){
-        return $"{_word}";
-    }
-
 }

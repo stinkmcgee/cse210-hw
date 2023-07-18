@@ -1,22 +1,10 @@
-/**********************************
-*            Reference            *
-*---------------------------------*
-* _book : string                  *
-* _startVerse : int               *
-* _endVerse : int                 *
-* _chapter : int                  *
-*---------------------------------*
-* Reference()                       *
-* Reference(book : string, startVerse : int, endVerse : int, chapter : int)   *
-**
-* Display()*
-**********************************/
+using System;
 
 public class Reference{
-    public string _book;
-    public int _startVerse;
-    public int _endVerse;
-    public int _chapter;
+    private string _book;
+    private int _startVerse;
+    private int _endVerse;
+    private int _chapter;
 
     public Reference(string book, int startVerse, int endVerse, int chapter){
         _book = book;
@@ -24,7 +12,7 @@ public class Reference{
         _endVerse = endVerse;
         _chapter = chapter;
     }
-    public string Display(){
-    return $"{_book} {_chapter}: {_startVerse} {_endVerse}";
+    public string GetReference(){
+    return $"{_book} {_chapter}: {_startVerse}-{_endVerse}";
     }
 }

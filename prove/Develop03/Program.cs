@@ -17,7 +17,25 @@
 
 // Scripture
 // ******
-//
+// _text = string
+// ******
+// GetScripture()
+
+// Reference
+// ******
+// _bookName = string
+// _chapter = int
+// _startVerse = int
+// _endVerse = int
+// ******
+// GetReference()
+
+// Word
+// ******
+// _word = string
+// ******
+// ShowWord() - shows the word
+// HideWord() - figure out how to hide words then reveal them in ShowWord
 
 using System;
 
@@ -25,6 +43,27 @@ class Program
 {
     static void Main(string[] args)
     {
-        
+        //Scripture s1 = new Scripture("Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.");
+        //Reference r1 = new Reference("Joshua", 1, 1, 6);
+       // Console.WriteLine(r1.GetReference());
+       // Console.WriteLine(s1.GetScripture());
+
+      //  Console.WriteLine(" ");
+
+        var scripture = new Scripture("Behold, blessed are you for this thing, and for speaking my words which I have given you according to my commandments. And now, behold, I say unto you, that the thing which will be of the most worth unto you will be to declare repentance unto this people, that you may bring souls unto me, that you may rest with them in the kingdom of my Father, Amen.");
+        Reference r = new Reference("D&C", 5, 6, 15);
+        //Console.WriteLine(r2.GetReference());
+        //Console.WriteLine(s2.GetScripture());
+
+        while(!scripture.VerseFinished()){
+            Console.WriteLine(r.GetReference());
+            scripture.GetScripture();
+                Console.WriteLine("Enter to continue. Type 'Exit' to exit");
+            var input = Console.ReadLine();
+
+            if(input == "Exit")
+                break;
+            scripture.HideWord();
+        }
     }
 }
